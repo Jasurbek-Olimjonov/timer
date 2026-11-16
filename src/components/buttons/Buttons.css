@@ -1,0 +1,20 @@
+.controls {
+    height: 70px;
+    width: 70px;
+    border: 3px solid #686a7d;
+}
+
+.controls:active,
+#killer:active {
+    border: 3px solid rgb(40, 176, 117);
+}
+
+.pause {
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+#killer {
+    height: 105px;
+    width: 105px;
+}
